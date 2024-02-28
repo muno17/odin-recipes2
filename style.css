@@ -6,4 +6,19 @@
 
 h1 {
     text-align: center;
+    font-size: 48px;
+}
+
+.recipe-list {
+    text-align: center;
+    list-style-type: none;
+}
+
+li {
+    margin-bottom: 16px;
+}
+
+.recipe-card {
+    width: 800px;
+    margin: 0 auto;
 }
